@@ -1,0 +1,14 @@
+PROCEDURE TEST3 IS
+A,B,C : constant Integer := 10;
+l : Integer := 13;
+
+
+
+
+begin
+	
+	
+	
+	
+	
+end TEST3;

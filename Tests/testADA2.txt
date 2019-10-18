@@ -1,0 +1,9 @@
+PROCEDURE TEST1 IS
+
+
+begin
+	for i in 1..5 loop
+		put(1);
+	end loop;
+		
+end TEST1;
