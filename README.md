@@ -59,6 +59,11 @@ then print the interpretter result
     }
 ```
 
+## How to run 
+* put the script where indicated in Overview
+* in terminal : gcc -o main Main.c then main
+
+
 
 
 ## Authors
