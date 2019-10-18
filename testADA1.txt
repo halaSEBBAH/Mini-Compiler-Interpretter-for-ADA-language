@@ -1,0 +1,30 @@
+PROCEDURE TEST1 IS
+A,B,C : constant Integer := 10;
+l : Integer := 13;
+D : constant Integer := 11;
+E : constant Integer := 12;
+Z : Integer ;
+m : constant Integer := 12;
+p : Integer :=12;
+r : constant Integer := 12;
+
+
+
+begin
+	for i in 1..5 loop
+		l:=l-8;
+		put(l);
+	end loop;
+	
+	z := 6;
+	
+	loop 
+	exit when z < 0;
+		get(z);
+		z := z-2;
+		put(z);
+	end loop;
+	
+	
+	
+end TEST1;
