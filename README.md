@@ -39,7 +39,7 @@ table of symbols stors symbles we define in programm and their type for exemle a
        AfficherTableSymbole();
 ```     
 
-it stores the micro instructions that the interpretter needs to execute in order to get the wanted result ( resembles a pile of assembly instructions 
+it stores the micro instructions that the interpretter needs to execute in order to get the wanted result ( resembles a pile of assembly instructions )
 
 ```
         afficherTableInstructions();
