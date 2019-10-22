@@ -1,7 +1,6 @@
 # Mini Compiler Interpretter for ADA language
 
 A lexical , syntactic , semantic compiler and interpreter for a part of the **ADA** language , to whome we defined the grammar .
-the
 
 ### Prerequisites
 
