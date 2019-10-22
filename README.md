@@ -68,7 +68,7 @@ then print the interpretter result
 
 ## Authors
 
-* **MESTASI Bilal**
+* **MESTASSI Bilal**
 * **NEDDAY Asmae**
 * **SEBBAH Hala**
 * **TAHIR Aicha**
